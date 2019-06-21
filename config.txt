@@ -1,0 +1,6 @@
+owner=252488488065302528
+prefix=Pi
+game=Break | play
+stayinchannel=true
+songinstatus=false
+token=NTkxNDI4NTU5ODMxMTcxMDcz.XQwozQ.jpEOqMoo5T7aDLzohDaFvfjsgCQ
